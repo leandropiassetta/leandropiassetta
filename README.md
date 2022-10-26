@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Leandro de Freitas Piassetta from Brazil.</h1>
-<h3 align="center">I am currently working as a software developer in the Mercado Livre</h3>
 
 - 🌱 I’m currently learning **GO**
 
