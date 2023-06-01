@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leandro de Freitas Piassetta from Brazil.</h1>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently working with **GO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
