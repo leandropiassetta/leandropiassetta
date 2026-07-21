@@ -223,10 +223,8 @@ I am available for remote opportunities worldwide. For hybrid or on-site positio
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/leandropiassetta">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandropiassetta&layout=compact&langs_count=8&hide_border=true"
-      alt="GitHub language statistics"
-    />
-  </a>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=leandropiassetta&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+    alt="Languages across my GitHub repositories"
+  />
 </p>
