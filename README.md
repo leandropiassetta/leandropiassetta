@@ -222,9 +222,11 @@ I am available for remote opportunities worldwide. For hybrid or on-site positio
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=leandropiassetta&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-    alt="Languages across my GitHub repositories"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=leandropiassetta&layout=compact&langs_count=10&hide=html,css&theme=transparent&hide_border=true"
+    alt="Most used programming languages"
   />
 </p>
