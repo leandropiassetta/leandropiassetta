@@ -46,14 +46,14 @@ I am currently pursuing an **MBA in Software Engineering with Artificial Intelli
 
 ## 🎯 Core Focus
 
-- 💻 **Software Engineering:** System design, clean code, automated testing, code reviews, and reliable production systems.
-- 🐹 **Backend Systems:** Go, Python, FastAPI, microservices, REST APIs, gRPC, and distributed processing.
-- 🌐 **Full Stack Applications:** Java, Spring Boot, Vue, React, TypeScript, Node.js, authentication, state management, and API integration.
-- ☁️ **Cloud Engineering:** AWS, Google Cloud, Docker, Kubernetes, Terraform, serverless, and cloud-native architectures.
-- 📨 **Event-Driven Systems:** AWS SQS, Pub/Sub, Cloud Tasks, Redis Streams, workers, retries, idempotency, and DLQs.
-- 🤖 **Applied AI:** OpenAI, Anthropic, LangGraph, LLM agents, RAG, pgvector, Prompt Engineering, and model evaluation.
-- 🔒 **Data Security:** LGPD, tokenization, cryptography, hashing, masking, governance, and access control.
-- 📊 **Observability:** Structured logs, metrics, dashboards, production alerts, Datadog, and Kibana.
+* 💻 **Software Engineering:** System design, clean code, automated testing, code reviews, and reliable production systems.
+* 🐹 **Backend Systems:** Go, Python, FastAPI, microservices, REST APIs, gRPC, and distributed processing.
+* 🌐 **Full Stack Applications:** Java, Spring Boot, Vue, React, TypeScript, Node.js, authentication, state management, and API integration.
+* ☁️ **Cloud Engineering:** AWS, Google Cloud, Docker, Kubernetes, Terraform, serverless, and cloud-native architectures.
+* 📨 **Event-Driven Systems:** AWS SQS, Pub/Sub, Cloud Tasks, Redis Streams, workers, retries, idempotency, and DLQs.
+* 🤖 **Applied AI:** OpenAI, Anthropic, LangGraph, LLM agents, RAG, pgvector, Prompt Engineering, and model evaluation.
+* 🔒 **Data Security:** LGPD, tokenization, cryptography, hashing, masking, governance, and access control.
+* 📊 **Observability:** Structured logs, metrics, dashboards, production alerts, Datadog, and Kibana.
 
 ---
 
@@ -160,52 +160,52 @@ I am currently pursuing an **MBA in Software Engineering with Artificial Intelli
 
 `February 2026 - April 2026`
 
-- Designed and developed Go microservices for tokenization of cards and investment products.
-- Built REST APIs for internal services, financial integrations, and legacy platforms.
-- Implemented asynchronous processing using AWS SQS.
-- Worked with PostgreSQL, Docker, automated tests, incident investigation, and bug fixing.
+* Designed and developed Go microservices for tokenization of cards and investment products.
+* Built REST APIs for internal services, financial integrations, and legacy platforms.
+* Implemented asynchronous processing using AWS SQS.
+* Worked with PostgreSQL, Docker, automated tests, incident investigation, and bug fixing.
 
 ### Software Engineer | Itinera
 
 `July 2025 - January 2026`
 
-- Developed a production multi-tenant SaaS platform using Python, FastAPI, PostgreSQL, and Google Cloud Run.
-- Built AI-agent pipelines using LangGraph and OpenAI and Anthropic models.
-- Implemented RAG using PostgreSQL, pgvector, document ingestion, and semantic search.
-- Integrated Meta WhatsApp API, Gmail API, and the Asaas payment gateway.
-- Implemented distributed processing with Cloud Tasks and Pub/Sub.
-- Applied idempotency and soft-lock patterns to prevent duplicate processing.
-- Evaluated LLM models to optimize cost, response quality, and reliability.
+* Developed a production multi-tenant SaaS platform using Python, FastAPI, PostgreSQL, and Google Cloud Run.
+* Built AI-agent pipelines using LangGraph and OpenAI and Anthropic models.
+* Implemented RAG using PostgreSQL, pgvector, document ingestion, and semantic search.
+* Integrated Meta WhatsApp API, Gmail API, and the Asaas payment gateway.
+* Implemented distributed processing with Cloud Tasks and Pub/Sub.
+* Applied idempotency and soft-lock patterns to prevent duplicate processing.
+* Evaluated LLM models to optimize cost, response quality, and reliability.
 
 ### Backend Developer - Data Security | Mercado Livre
 
 `May 2022 - June 2025`
 
-- Developed and maintained Go microservices for security, governance, and sensitive-data protection.
-- Expanded Data Security coverage to approximately 90% of internal storage technologies.
-- Improved sensitive-data detection and classification rules to approximately 90% accuracy.
-- Built secure REST APIs using cryptography, hashing, masking, tokenization, and access control.
-- Created production dashboards, structured logs, metrics, and alerts using Datadog and Kibana.
-- Participated in on-call rotations, incident investigation, code reviews, and automated testing.
-- Contributed to internal experiments involving corporate LLMs.
+* Developed and maintained Go microservices for security, governance, and sensitive-data protection.
+* Expanded Data Security coverage to approximately 90% of internal storage technologies.
+* Improved sensitive-data detection and classification rules to approximately 90% accuracy.
+* Built secure REST APIs using cryptography, hashing, masking, tokenization, and access control.
+* Created production dashboards, structured logs, metrics, and alerts using Datadog and Kibana.
+* Participated in on-call rotations, incident investigation, code reviews, and automated testing.
+* Contributed to internal experiments involving corporate LLMs.
 
 ---
 
 ## 🎓 Education and Certifications
 
-- **MBA in Software Engineering with Artificial Intelligence** | FullCycle | In progress
-- **Go Expert** | FullCycle
-- **Web Full Stack Development** | Trybe
-- **Web Full Stack Development** | Digital House
-- **Business Administration** | Estácio de Sá
+* **MBA in Software Engineering with Artificial Intelligence** | FullCycle | In progress
+* **Go Expert** | FullCycle
+* **Web Full Stack Development** | Trybe
+* **Web Full Stack Development** | Digital House
+* **Business Administration** | Estácio de Sá
 
 ---
 
 ## 🌍 Languages
 
-- **Portuguese:** Native
-- **Spanish:** Advanced
-- **English:** Intermediate, including technical reading and documentation
+* **Portuguese:** Native
+* **Spanish:** Advanced
+* **English:** Intermediate, including technical reading and documentation
 
 ---
 
@@ -215,5 +215,16 @@ I am open to **Software Engineer opportunities** involving backend development, 
 
 I am available for remote opportunities worldwide. For hybrid or on-site positions, I am available throughout Greater Florianópolis.
 
-- **LinkedIn:** [linkedin.com/in/leandropiassetta](https://www.linkedin.com/in/leandropiassetta/)
-- **Email:** [leandropiassetta@gmail.com](mailto:leandropiassetta@gmail.com)
+* **LinkedIn:** [linkedin.com/in/leandropiassetta](https://www.linkedin.com/in/leandropiassetta/)
+* **Email:** [leandropiassetta@gmail.com](mailto:leandropiassetta@gmail.com)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandropiassetta&layout=compact&langs_count=10&theme=transparent&hide_border=true&card_width=520"
+    alt="Languages across Leandro Piassetta's GitHub repositories"
+  />
+</p>
