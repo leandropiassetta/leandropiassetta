@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/leandropiassetta" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandropiassetta" height="30" width="40" /></a>
-  <a href="mailto:seu-email@exemplo.com" target="blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="email" height="30" width="40" /></a>
+  <a href="mailto:leandropiassetta@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
